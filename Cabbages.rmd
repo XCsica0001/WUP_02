@@ -70,4 +70,6 @@ Group c39 and c52 have no difference in their testing quality. I reject the null
 
 # Discussion and Conclusion
 
+We first made ourselves some boxplots for VitC and found the average between c39 and c52, this led us to find out that they were statistically different. We then found the numerical results to c39 and c52. We then finally made a hypothesis in inferential results in which we rejected the chances of c39 and c52 being that it is extremely low.
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
